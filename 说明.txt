@@ -1,0 +1,7 @@
+将项目xheditor_struts导入到myeclipse中,部署启动
+浏览器中输入http://localhost:8080/xheditor_struts/
+点击图片上传...
+
+参考博文：http://blog.csdn.net/itmyhome1990/article/details/38491205
+
+如有疑问,欢迎加入JAVA技术交流群：74955800
